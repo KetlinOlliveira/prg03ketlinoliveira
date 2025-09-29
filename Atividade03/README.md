@@ -1,2 +1,3 @@
 # prg03ketlinoliveira
-Destinado às atividades de Programação Orientada a Objetos.
+Calculadora de Idade através da data de Nascimento, utiliza interface gráfica e redimensionamento de imagem.
+
