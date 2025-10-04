@@ -118,8 +118,8 @@
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
               <Image iconType="3" name="/br/com/ifba/atividade04/images/balao.jpg"/>
             </Property>
-            <Property name="text" type="java.lang.String" value="Adivinhe um n&#xfa;mero de 1 a 5&#xa;"/>
-            <Property name="horizontalTextPosition" type="int" value="0"/>
+            <Property name="text" type="java.lang.String" value="Adivinhe um n&#xfa;mero de 1 a 5 "/>
+            <Property name="horizontalTextPosition" type="int" value="4"/>
           </Properties>
         </Component>
         <Component class="javax.swing.JLabel" name="lblAki">
