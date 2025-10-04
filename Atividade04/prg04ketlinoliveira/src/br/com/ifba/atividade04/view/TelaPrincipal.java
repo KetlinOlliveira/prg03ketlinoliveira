@@ -81,8 +81,8 @@ public class TelaPrincipal extends javax.swing.JFrame {
         lblBalao.setFont(new java.awt.Font("Segoe UI", 0, 14)); // NOI18N
         lblBalao.setForeground(new java.awt.Color(0, 0, 0));
         lblBalao.setIcon(new javax.swing.ImageIcon(getClass().getResource("/br/com/ifba/atividade04/images/balao.jpg"))); // NOI18N
-        lblBalao.setText("Adivinhe um número de 1 a 5\n");
-        lblBalao.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);
+        lblBalao.setText("Adivinhe um número de 1 a 5 ");
+        lblBalao.setHorizontalTextPosition(javax.swing.SwingConstants.RIGHT);
 
         lblAki.setIcon(new javax.swing.ImageIcon(getClass().getResource("/br/com/ifba/atividade04/images/akinator.png"))); // NOI18N
         lblAki.setText("jLabel1");
